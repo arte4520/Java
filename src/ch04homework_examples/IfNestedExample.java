@@ -1,4 +1,4 @@
-package ch04homework;
+package ch04homework_examples;
 
 public class IfNestedExample {
 	public static void main(String[] args) {
@@ -14,7 +14,13 @@ public class IfNestedExample {
 			}else {
 				grade = "A";
 			}
+		} else {
+			if(score>=85) {
+				grade = "B+";
+			}else {
+				grade = "B";
+			}
 		}
-		
+		System.out.println("ÇÐÁ¡ : "+grade);
 	}
 }

@@ -1,6 +1,6 @@
-package ch04homework;
+package ch04homework_exercises;
 
-public class check03 {
+public class Exercise03 {
 	// 03. for문을 이용해서 1부터 100까지의 정수 중에서 3의배수의 총합을구하는 코드를 작성해보세요.
 	public static void main(String[] args) {
 

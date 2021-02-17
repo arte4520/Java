@@ -1,4 +1,4 @@
-package ch04homework;
+package ch04homework_examples;
 
 public class IfElseExample {
 
